@@ -1,0 +1,26 @@
+.postersWrap{
+    display: flex;
+    flex-wrap: wrap;
+
+    height: 100%;
+
+    justify-content: center;
+
+    align-items: center;
+
+    padding: 10px;
+
+    justify-items: center;
+
+}
+
+.wrap{
+    margin-top: 100px;
+
+}
+
+.nameOfPage{
+    font-size: 30px;
+    margin-left: 50px;
+    color: #e512c3;
+}

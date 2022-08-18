@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(90deg, rgb(241, 241, 241) 0%, rgb(245, 245, 245) 50%, rgb(239, 239, 239) 100%);
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+*{
+  font-family: 'Segoe UI','Consolas', serif;
 }
